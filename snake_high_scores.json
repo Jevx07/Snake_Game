@@ -1,0 +1,21 @@
+{
+  "single": [
+    {
+      "name": "Player",
+      "score": 30,
+      "time": 1753369674.4912605
+    }
+  ],
+  "multi": [
+    {
+      "name": "Player 1",
+      "score": 10,
+      "time": 1753369733.5722384
+    },
+    {
+      "name": "Player 1",
+      "score": 0,
+      "time": 1753369695.3034341
+    }
+  ]
+}
